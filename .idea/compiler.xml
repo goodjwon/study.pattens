@@ -8,6 +8,8 @@
       <module name="Strategy_test" target="1.8" />
       <module name="study.pattens_main" target="1.8" />
       <module name="study.pattens_test" target="1.8" />
+      <module name="Template_main" target="1.8" />
+      <module name="Template_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

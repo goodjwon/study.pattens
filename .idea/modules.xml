@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Strategy.iml" filepath="$PROJECT_DIR$/.idea/modules/Strategy.iml" group="Strategy" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Strategy/Strategy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Strategy/Strategy_main.iml" group="Strategy" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Strategy/Strategy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Strategy/Strategy_test.iml" group="Strategy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Template.iml" filepath="$PROJECT_DIR$/.idea/modules/Template.iml" group="Template" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Template/Template_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Template/Template_main.iml" group="Template" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Template/Template_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Template/Template_test.iml" group="Template" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/study.pattens.iml" filepath="$PROJECT_DIR$/.idea/modules/study.pattens.iml" />
     </modules>
   </component>

@@ -1,4 +1,5 @@
 rootProject.name = 'study.pattens'
 include 'Strategy'
 include 'Adapter'
+include 'Template'
 
