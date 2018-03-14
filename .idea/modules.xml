@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/Adapter.iml" group="Adapter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adapter/Adapter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Adapter/Adapter_main.iml" group="Adapter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Adapter/Adapter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Adapter/Adapter_test.iml" group="Adapter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Strategy.iml" filepath="$PROJECT_DIR$/.idea/modules/Strategy.iml" group="Strategy" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Strategy/Strategy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Strategy/Strategy_main.iml" group="Strategy" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Strategy/Strategy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Strategy/Strategy_test.iml" group="Strategy" />
