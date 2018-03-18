@@ -3,4 +3,6 @@ include 'Strategy'
 include 'Adapter'
 include 'Template'
 include 'FactoryMethod'
+include 'SingleTone'
+include 'Prototype'
 
