@@ -5,4 +5,5 @@ include 'Template'
 include 'FactoryMethod'
 include 'SingleTone'
 include 'Prototype'
+include 'Builder'
 
